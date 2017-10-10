@@ -1,0 +1,6 @@
+pytest>=3.2.3
+pylint>=1.7.4
+ply>=3.10
+sphinx>=1.6.4
+docopt==0.6.2
+bitstring>=3.1.5

@@ -1,3 +1,17 @@
+# PLY-generated file
+/test_error.bat
+/lift/parser.out
+/lift/lift_tab.py
+
+#ply
+/src/parser.out
+/src/lift-tab.py
+/src/lift_tab.py
+
+#Default output
+a.out
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
