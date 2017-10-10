@@ -36,7 +36,8 @@ clean:
 	@ find . -type f -name '*.pyc' -delete
 	@ find . -type f -name '.DS_Store' -delete
 	@ find . -type d -name '__pycache__' -delete
-	@ rm -f ./a.out
+	@ rm -rf .cache
+	@ rm -f a.out
 
 clean-doc:
 	@ rm -rf ./docs/build
