@@ -1,7 +1,7 @@
 # lift-js
 A JavaScript interpreter written in Python that supports primary features of ECMAScript 2015
 
-[![Build Status](https://travis-ci.com/wolongyuan/lift-js.svg?branch=master)](https://travis-ci.com/wolongyuan/lift-js)
+[![Build Status](https://travis-ci.com/wolongyuan/lift-js.svg?token=HxUpDBskpjanfstuWrzX&branch=master)](https://travis-ci.com/wolongyuan/lift-js)
 
 ## Set up virtualenv
 
