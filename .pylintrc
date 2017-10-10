@@ -1,0 +1,5 @@
+[MASTER]
+ignore=CVS,lift_tab.py,parser.out,Parser.py,__pycache__,test_js
+
+[MESSAGES CONTROL]
+disable=missing-docstring
