@@ -18,7 +18,7 @@ source env/bin/activate
 make install
 ```
 
-### Compile js program
+### Compile and run in VM
 ```bash
 make run a.js
 ```
