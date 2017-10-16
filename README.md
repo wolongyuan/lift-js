@@ -3,50 +3,55 @@ A JavaScript interpreter written in Python that supports primary features of ECM
 
 [![Build Status](https://travis-ci.com/wolongyuan/lift-js.svg?token=HxUpDBskpjanfstuWrzX&branch=master)](https://travis-ci.com/wolongyuan/lift-js)
 
-## Set up virtualenv
+## Getting Started
+
+### Set up virtualenv
 
 ```bash
 virtualenv env
 ```
 
-## Install requirements
+### Install requirements
 
 ```bash
 source env/bin/activate
 make install
 ```
 
-## Run
+### Compile js program
 ```bash
-make run
+make run a.js
 ```
 
-## Test
+### Running the tests
 ```bash
 make test
 ```
 
-## Lint
+### Lint
 ```bash
 make lint
 ```
 
-## Clean
+### Clean
 ```bash
 make clean
 ```
 
-## Generate docs
+### Generate docs
 ```bash
 make doc
 ```
 
-## Clean docs
+### Clean generated docs
 ```bash
 make doc-clean
 ```
 
-## Deactivate virtualenv
+### Deactivate virtualenv
 ```bash
 deactivate
 ```
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/wolongyuan/spreadsheet/blob/master/LICENSE) file for details
